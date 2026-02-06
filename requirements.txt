@@ -2,7 +2,7 @@ streamlit
 pandas
 tavily-python
 langchain
-langchain-core
+langchain-community
 langchain-openai
-langchain.chat_models
 openpyxl
+
